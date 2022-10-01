@@ -28,8 +28,4 @@ sudo swapon /swapfile
 
 sudo pip install parlai
 sudo parlai i -mf zoo:seeker/r2c2_blenderbot_3B/model
-
-
-
-
 ```
