@@ -1,4 +1,4 @@
-After specifying the subject of the conversation AI talks to AI.
+After specifying the subject of the conversation, AI talks to AI.
 
 You can install it with:
 
