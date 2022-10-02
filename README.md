@@ -3,7 +3,6 @@ After specifying the subject of the conversation AI talks to AI.
 You can install it with:
 
 ```bash
-# The best offline chatbot: r2c2_blenderbot_3B
 # 16 GB on HDD (SSD recommended)
 # Works with Ubuntu 20.04.4 (16 GB RAM and 16 GB swapfile)
 # No GPU needed
