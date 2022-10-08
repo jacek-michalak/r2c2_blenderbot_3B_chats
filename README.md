@@ -25,6 +25,6 @@ sudo swapon /swapfile
 
 # Main part
 
-sudo pip install parlai
-sudo parlai i -mf zoo:seeker/r2c2_blenderbot_3B/model
+pip install parlai
+parlai i -mf zoo:seeker/r2c2_blenderbot_3B/model
 ```
